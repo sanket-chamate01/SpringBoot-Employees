@@ -2,9 +2,7 @@ package com.rest.employee.controller;
 
 import com.rest.employee.entity.Employee;
 import com.rest.employee.service.EmployeeService;
-import com.rest.employee.service.EmployeeServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
